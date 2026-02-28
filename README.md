@@ -67,4 +67,4 @@ The final analytical suite consists of three primary focus areas:
 
 ## 👤 Author
 **Aadesh Dixit**
-*Data Analyst | BI Developer*
+*-Data Analyst | BI Developer*
