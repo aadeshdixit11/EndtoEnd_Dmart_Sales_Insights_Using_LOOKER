@@ -1,5 +1,4 @@
 # EndtoEnd_Dmart_Sales_Insights_Using_LOOKER
-# 🛒 DMart Sales Insights: End-to-End Looker Analytics
 
 This project is a comprehensive business intelligence solution designed to analyze **DMart’s** retail performance. It demonstrates a full data lifecycle: from raw transactional data ingestion and SQL transformation to semantic modeling and interactive dashboarding using **Looker Studio**.
 
